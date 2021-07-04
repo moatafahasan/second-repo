@@ -1,0 +1,106 @@
+.section1 {
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 150px;
+}
+
+.section2 {
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.section3 {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.experience {
+    display: flex;
+}
+
+.peter {
+    color: orange;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.half {
+    width: 50%;
+    padding: 20px;
+}
+
+.half1 {
+    width: 40%;
+    padding: 20px;
+}
+
+.half2 {
+    width: 60%;
+    padding: 20px;
+}
+
+.half4 {
+    width: 40%;
+    margin-left: 5%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px black;
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, orange);
+    border-image-slice: 1;
+
+}
+
+.half5 {
+    width: 40%;
+    margin-left: 5%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px black;
+    border-left: 10px solid;
+    border-image: linear-gradient(red, green);
+    border-image-slice: 1;
+
+
+}
+
+.JhaP {
+    width: 90%;
+}
+
+.p {
+    text-align: justify;
+}
+
+.p1 {
+    text-align: justify;
+    padding-right: 150px;
+}
+
+.button {
+    padding: 10px 25px;
+    font-size: 17px;
+    background-image: linear-gradient(red, green);
+    border: none;
+    border-radius: 15px;
+    color: white;
+
+}
+
+.half4 p {
+    text-align: justify;
+}
+
+.half5 p {
+    text-align: justify;
+}
